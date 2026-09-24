@@ -1,0 +1,89 @@
+claim,value at this cut,source
+notional of the whole tape (strike x size),"$454,597,510.21",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+premium of the whole tape (price x size),"$853,321.60",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+notional / premium,532.7x,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+notional over the rolling 24 hours,"$199,894,185.23",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+twelve trades are this much of the notional,84.4%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+and this much of the premium,8.95%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+notional of the 6 spreads,"$383,855,453",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+what was actually paid for them,"$47,082.12",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+size = debit / width of the spread,holds,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+live open interest,"$154,130,604",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+share of it expiring on the nearest date,98.8%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+live instruments with one long address,171 of 184,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+"the top three take, out of $1,000/day",$824,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+trades on single-price instruments,1099 (7.7%),GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+premium in them,20.2%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+trades charged a non-zero fee,0,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+weekend notional (equities and indices),22.6%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+trades in the US regular session,43.4%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+received by the main maker in transfers,"$676,111.39",POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState
+sent by the main maker,$0.00,POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState
+bridged in by it,$0.00,POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState
+"received by the custody wallet, ever","$1,788,983.25",POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState
+"sent out of the custody wallet, ever","$901,411.37",POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState
+TVL per DefiLlama,"$886,902",GET api.llama.fi/protocol/hypercall
+contracts that changed hands,"176,516",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+"contracts that had to, to reach the same positions","124,844",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+contracts that came back,"51,672 (29.27%)",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+contracts that came back to the address that sent them,"26,612.03",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+premium between pairs that end square,"$402,189.77",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+"premium between pairs that end square, share",47.13%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+"contracts that came back to the address that sent them, share",15.08%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+premium on the part that came back,75.61%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+notional on the part that came back,11.70%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+"volume closed again by the address that opened it, first in first out",29.27%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+median holding time of a contract closed again,5.0 min,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+the five busiest addresses are on trades carrying this much of the premium,98.27%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+"the busiest pair of addresses, share of premium",51.04%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+instruments where every participant ends flat,479 of 1905,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+trades in them,"6,152 (43.31%)",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+premium in them,66.40%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+fees charged across them,$0.00,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+of them traded by exactly two addresses,412 of 479,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+addresses that have never signed a HyperEVM transaction,82 of 509,POST rpc.purroofgroup.com eth_getTransactionCount
+notional with at least one never-signed counterparty,99.62%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n} + POST rpc.purroofgroup.com eth_getTransactionCount
+notional with both sides never-signed,85.79%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n} + POST rpc.purroofgroup.com eth_getTransactionCount
+contracts that changed hands,"176,515.88",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+open interest the tape ever created,"124,844.22",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+open interest still open at the cut,"2,030.44",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+the venue's own open interest over the same instruments,"2,036.69",GET api.hypercall.xyz/markets
+venue open interest / tape open interest,1.0031x,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n} + GET api.hypercall.xyz/markets
+instruments where the two agree exactly,249 of 256,GET api.hypercall.xyz/markets
+open interest with a never-signed address on both sides,40.45%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n} + POST rpc.purroofgroup.com eth_getTransactionCount
+open interest with the linked set on both sides,57.26%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+open interest with neither side flagged,0.00%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n} + POST rpc.purroofgroup.com eth_getTransactionCount
+the net payer on all 6 spreads,0xccbbe107,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+premium is zero-sum across the tape,net $0.00,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+the largest net receiver of premium,"0x88c8df8de7 $133,961.38",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+net receivers of premium,42 of 509,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+notional over the 24 hours to the last midnight,"$69,422.44",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+trades in that window,90,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+received by the custody wallet on HyperEVM,"$1,949,352.50 from 439 addresses","POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+sent by it on HyperEVM,"$1,949,310.41 to 206 addresses","POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+share of its Core inflow arriving through the CCTP gateway,99.15%,POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState
+its Core inflow that is not the gateway,"$15,201.29 from 13 addresses",POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState
+"tape addresses that ever paid the custody wallet, either layer",509 of 509,"POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+what they paid,"$1,614,994.28","POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+tape addresses that never paid it anything,0,"POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+equity the venue credits across the tape,"$875,095.48",GET api.hypercall.xyz/portfolio?wallet={addr}
+of it credited to addresses that never paid,$0.00 (0.00%),"GET api.hypercall.xyz/portfolio?wallet={addr} + POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+RelayRouterV3 deliveries into custody,"349, $1,409,979.98, 299 with payer = account","POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2 + GET api.relay.link/requests/v2?hash={tx} + POST rpc.purroofgroup.com eth_getLogs address=custody topic0=0x07ad20a3…"
+"deposits paid by one address, credited to another","383, $1,237,698.72",POST rpc.purroofgroup.com eth_getLogs address=custody topic0=0x07ad20a3… + GET api.relay.link/requests/v2?hash={tx}
+credited to the maker by other payers,"22 deposits, $730,105.00, from 4 addresses",POST rpc.purroofgroup.com eth_getLogs address=custody topic0=0x07ad20a3… + GET api.relay.link/requests/v2?hash={tx}
+of them from Ethereum / Arbitrum,"$839,687.51 / $554,192.13",GET api.relay.link/requests/v2?hash={tx}
+"paid in, both layers, less paid out","$1,649,236.14 - $761,622.18 = $887,613.97","POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2 + GET api.relay.link/requests/v2?hash={tx}"
+addresses that paid in and never traded,"76, $34,241.87","POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2 + GET api.relay.link/requests/v2?hash={tx}"
+of it withdrawn by them / still credited to them,"$23,703.89 / $10,754.60","POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2 + GET api.hypercall.xyz/portfolio?wallet={addr}"
+left their names inside the venue,$-216.62,"POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2 + GET api.hypercall.xyz/portfolio?wallet={addr}"
+held by trading addresses beyond what they brought,"$-1,980.51","GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n} + GET api.hypercall.xyz/portfolio?wallet={addr} + POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+"the maker, held beyond what it brought","$-108,937.61",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n} + GET api.hypercall.xyz/portfolio?wallet={addr} + POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState
+withdrawn from custody,"$761,622.18 to 427 addresses","POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+took out more than they paid in,"31 addresses, $139,245.66","POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+largest net withdrawal,"0x88c8df8de727854bff379745b22344957c7cc104 $121,019.45","POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), custody in topic1|topic2"
+margin posted across open positions,"$22,242,214.37 = 25.4x the equity",GET api.hypercall.xyz/portfolio?wallet={addr}
+the main maker's equity per the venue,"$586,302.63",GET api.hypercall.xyz/portfolio?wallet={addr}
+trades with both sides in the carried-in set,"10,111 (71.18%)",GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+premium in them,90.12%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+notional in them,98.24%,GET api.hypercall.xyz/trades?limit=1000&after_trade_id={n}
+"largest funding component at the $10,000 floor","6 addresses, 13 edges","POST api.hyperliquid.xyz/info userNonFundingLedgerUpdates|clearinghouseState + POST rpc.purroofgroup.com eth_getLogs topic0=Transfer(address,address,uint256), address=USDC, probed addresses in topic1|topic2"

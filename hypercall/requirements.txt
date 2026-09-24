@@ -1,0 +1,6 @@
+# The versions the published outputs were produced on (python 3.14.7).
+# urllib from the standard library does every request, so there is no HTTP
+# dependency to pin.
+pandas==3.0.5
+matplotlib==3.11.1
+ipython==9.17.0
