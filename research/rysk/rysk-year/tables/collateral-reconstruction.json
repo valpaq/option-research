@@ -1,0 +1,2202 @@
+[
+  {
+    "tx_hash": "0xaf0f406e5a482b8b21f76acefd623ebd36d280a6a051b54f1967482d5ee13dc4",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 150.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x0ee3608765b33a4687390b0a93f11816ec587fa7c09db7e64e9bb93b83bfbf16",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      9
+    ]
+  },
+  {
+    "tx_hash": "0xb16ef7b58a5c957a75f742c97bbc820b2c5b357e07421511683bba5044785cbb",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x5f2a18e30bcc176ebd62bd999823cabcbb69d7f71cb73ef55bca70a807ae4eba",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      17
+    ]
+  },
+  {
+    "tx_hash": "0x40e9be53202a3c54f339ae79ea9291dc01d07eebe34e3a9d950ec38cb8478ec2",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4950.0,
+    "transfer_log_indices": [
+      3
+    ]
+  },
+  {
+    "tx_hash": "0x0ed1c5dbf51d8e6baa5fd6427ec5d6f705c9fb018100bf0cb4505f7e74079ca0",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      19
+    ]
+  },
+  {
+    "tx_hash": "0xeddf3e6628a0ab0ba6839b90c724642a28030dff337bef83ddb0013930f05a65",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xcdae80e388e6db20a562a36637d53c6a1ee13f035dbd2b84a40211b77befd200",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 200.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xa4ebc7a4b67acf46c48ca9b00adee7b85a9903daaccc5a32e25a7dd1a0539845",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      23
+    ]
+  },
+  {
+    "tx_hash": "0x1b8b1d8d3de0c52b04b863bbc6d788a4dce61349640a97befc95700f3cb5ba69",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      16
+    ]
+  },
+  {
+    "tx_hash": "0x69c06cf07186c1778c1ca8e9d8812b43e1f860c935e06aac87d6776afcee16d9",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x489fc5e53bd5896804fc5a95364880eb7baee413ec38fd5c242ddf0317b4056d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      11
+    ]
+  },
+  {
+    "tx_hash": "0xbe091a45452c3636af86a69ce33296c67dd674c6ed2c69436160ab6cb6336d46",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      16
+    ]
+  },
+  {
+    "tx_hash": "0xa179f4425be34d8b6a9f3e2e1cc573cfe5e26c167e28259311d245974512c824",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      10
+    ]
+  },
+  {
+    "tx_hash": "0x13a69ea202dabe3f88070a9c66206ea8a04f75f1ee7817dfa4bf3fc3baaac61f",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 200.0,
+    "transfer_log_indices": [
+      47
+    ]
+  },
+  {
+    "tx_hash": "0x77b44c155b606bf08a309a96a7e7cc5b9e0f933058bc575733b57b43568441c3",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 500.0,
+    "transfer_log_indices": [
+      37
+    ]
+  },
+  {
+    "tx_hash": "0xabe85ac7f72ab03bd8cee5803001e098cc850917a2ce081d70b7ad218f31ab0d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 1.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x82c6fd3355c5bb4dd75de356eab3c61e734bd936ad69dffef68d3719caae4ab0",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      26
+    ]
+  },
+  {
+    "tx_hash": "0x9963d930026af47f5e148258c18dabfce17e3a5be06204d795a7a74a270e8183",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0x52bbb9be081b3f4d678d7b5d5ff72567270c13890276002efee591cd98e35630",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      20
+    ]
+  },
+  {
+    "tx_hash": "0x5d5a0ee3773732fd79d47012d458da428995961e4fe07cb1ad6ece24d2405589",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 500.0,
+    "transfer_log_indices": [
+      21
+    ]
+  },
+  {
+    "tx_hash": "0xae50427b626f6b5d576155c5d7ef747185e480927f8cc53c82584dc6b9f7e202",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      7
+    ]
+  },
+  {
+    "tx_hash": "0x26ee41d88a57d7622a94dcaed1a599a0d9aafa63d1c3ed2c03f9dbc490a64555",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x00fe3c95941623d71958bbaecf27eb4993f04b18df6296d92ddcc2e3260e712b",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      10
+    ]
+  },
+  {
+    "tx_hash": "0x15ccb34efce8873b7445092e605e89ec9606c7f74e5446d4700ba21122cf9fb7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      3
+    ]
+  },
+  {
+    "tx_hash": "0x071e4b1c4f9aa13e0a57ed5fbc5920a690823a0045a82f457dac7e1ae6bf228f",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0xd8a2b9954763438dd0897fbf729da86857f374f45d2ceb126e7da4e299ccfd7e",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 300.0,
+    "transfer_log_indices": [
+      10
+    ]
+  },
+  {
+    "tx_hash": "0x3446df9e191c8d19b4df7ee4b4ff677777bf5389a76b3b977cd0bd1543ab834c",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 200.0,
+    "transfer_log_indices": [
+      31
+    ]
+  },
+  {
+    "tx_hash": "0xb9109a0120e1fe0c9e96ab4122a532d2f9f43880a5ab882d16a432c7a7e0b250",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x9a4242dcb3b3eb2b6202f10ae95a73f0bb37cb1dfee470c04027d6f0452bd7ef",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0xb1df028edc1e2197c5afcd6d4e88a4e30431a441e5b87dcaf1488233318750fe",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0x721c05bebeba0f52ee62a22b627d9537834393c3986df24b7468da6519adac86",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      9
+    ]
+  },
+  {
+    "tx_hash": "0xea320e7325be5844821560c853a10384fc92a1a7fb42e7257cdeab206ce6b02e",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      19
+    ]
+  },
+  {
+    "tx_hash": "0x781d734c7f89c53137d00f408ad18d32317e913af9b91f93cc6e4d82f012c2b7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 300.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xe485168f04d034b1057e4400c2292d28dcad04c9c0481808c2154890dd5f8a9c",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0x680aea50ec64682f28721d9f7dedf9b5d45de1b45f353ded9c737f26129bec0d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 500.0,
+    "transfer_log_indices": [
+      7
+    ]
+  },
+  {
+    "tx_hash": "0x2c40c6bccbe8501ddccd7e44ee0387420c4057e5777a5060a0423f272433dec2",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 150.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xdc34ac9a3235b6a67b7342af5a251da1aa5a8ebba53dd8ceda2015262454d801",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xac171effb675b2e3f28e52b731c34b380afa0d402e2260a4abfb749b671cf1cd",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0xc23f0b80ba20a0e047b19101abbd1526e6aacb292156d503db122f30b1edfb39",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0xf428584eb8133d549d41719a48df6d8afb9d033b8ed8c2a3f04285dd7aad5eea",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 1.0,
+    "transfer_log_indices": [
+      32
+    ]
+  },
+  {
+    "tx_hash": "0x03442e190d792292ab9f086d6573e163587472886ab64585a0971d38253b3a81",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4900.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0xc701e3508d4a38de18ae7dc6a6b010a2df26145566915172e2fd2635e1af9279",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4900.0,
+    "transfer_log_indices": [
+      17
+    ]
+  },
+  {
+    "tx_hash": "0xf3612e5615df38ac2aa647b8c56512cad8558d75f600ddeae03c3a94fb992cd7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 200.0,
+    "transfer_log_indices": [
+      10
+    ]
+  },
+  {
+    "tx_hash": "0x1d94c49172ca218dc7d66ded9a14066744d5b9367f4c9ff40bf5658d49a4f3fc",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      15
+    ]
+  },
+  {
+    "tx_hash": "0x340c2fd19b9a00100026b9571a87801013c208d0e6fd368e0faeee5c97f81a92",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0xb2ea8f9df8324409b427002a807a47aaaeb57a76eaa1ef7af3fc798a981d9248",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 300.0,
+    "transfer_log_indices": [
+      17
+    ]
+  },
+  {
+    "tx_hash": "0x5b7e5c8ac260120a124b86129d8b76562908b676fe3016619657e9c38071dec2",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      17
+    ]
+  },
+  {
+    "tx_hash": "0x0f8f7b38e4cd2058fb2842286c069a703a25a9d86dd210e77ba56e64684b6d21",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x0eeca25e92c446f2a81189ed2df673f1d0a146872834a032259e8e8a3104827c",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2000.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x99040b31c379a8c1c438258ac8c596ad419840991e2522e4690e8b577dafa886",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x576d4525158ace3e1ec86102c073596cbe0c409f59c458897e13ef38e476d9f1",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x6973237b3eb0da64302457a70ba5b4e6387724dec13cd4f711f1f127e48c9919",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 800.0,
+    "transfer_log_indices": [
+      3
+    ]
+  },
+  {
+    "tx_hash": "0x855446df00371aeaf2239b595e7522179dddb7f76e11dde3e55dbdc3513a5a88",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2500.0,
+    "transfer_log_indices": [
+      41
+    ]
+  },
+  {
+    "tx_hash": "0x1e413f3445a78c8e5e5cf801648eaa1775946dcf19b2750be49ba32989afded3",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      20
+    ]
+  },
+  {
+    "tx_hash": "0x759615e1244ebbe9e7192211d5c0aa8035b164914fc7ecff98d6d4db6ef9c702",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      18
+    ]
+  },
+  {
+    "tx_hash": "0x75759661201681d1546c7132e471b10cd5eed239be0c2c5f25aa58d7eb164a80",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2200.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0x542f52cf398f7296e82851dfd6eb152cf32bad9cac13a3ca0b9e4d213f8e8a69",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x36cca77eb2f96ae12a996e71c4cd8b41140ee89a9e34a2f019062e99ab6f079a",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 800.0,
+    "transfer_log_indices": [
+      3
+    ]
+  },
+  {
+    "tx_hash": "0x47b84a80453c23ccc82be2369b444d13b6ebbf4f1996164c0e09a876a5a078dd",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xdfd9483101413f4d36bf85f704df4758212205fe70217c85093a729427bb37b6",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      29
+    ]
+  },
+  {
+    "tx_hash": "0x7f98d0ff6682adb1681afc572ee95c9e8c399c6b99994da465f1aab03149740b",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      29
+    ]
+  },
+  {
+    "tx_hash": "0xbfdebbf4372c0cf5c489c04d9a979b3e2ba7acbaeb9f79b09b3fce3edcbf8780",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      20
+    ]
+  },
+  {
+    "tx_hash": "0xabf99f545bc1cc13232ab807aa389c3ef3f46f3a60cfa2ec0a66dfb95a9e3ec8",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x7dc916c766953de1770c7ceaedc86421d4748549623c58a74e3e534f43b6cba0",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      13
+    ]
+  },
+  {
+    "tx_hash": "0x3abf818e9eb89d561049394bf7ded89bbd2797cc60f56dfa1ece820a07e83196",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x39e88d91dc98a78047895ea9d1fa2c60c1a3de997398e74cce4a000635c3e7d7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      38
+    ]
+  },
+  {
+    "tx_hash": "0x9db81dd7d704aa19a0fcd9c362a80098f6522cdcbab33dfce187b1c7b61c1471",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      13
+    ]
+  },
+  {
+    "tx_hash": "0x6ffa5e956417c38eef7b54181f8c7c07ed70b6992234077b55da04c45584fe6d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      16
+    ]
+  },
+  {
+    "tx_hash": "0xea3123244f84caa0b7d7fd161d74d66011333a2e515bd374ba253ac9484899ee",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      28
+    ]
+  },
+  {
+    "tx_hash": "0x82d1c963c50db5d9c79f296e96dbe005a1f4eff2e9f21ed6ae855d03a3e5e03a",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4950.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0xc33079aedd75aa950a6ef20d8d2c7cfbcd28f594e315b749cc43511d6297320f",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x56951da06a4730f5b56accb754aaaa64ba73822ee04c88555fb3e20c6ce47946",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0xb386966312f95b28768086629980249fb54979796540ae70b11e75b096ccca91",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 1000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xf3334d28ac9ff878af59bcecee2869de9965f7ca3be2fa4e752ed423e9eede28",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2000.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0x118735773d6ef13d5f0cc96130324eba15b2ff5608341bb9e1327ca26e3023c0",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xb003d211b219db11c48d50cedde1acbf4010e38abee985dba6c41e595dbf9be8",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      31
+    ]
+  },
+  {
+    "tx_hash": "0x6cee35b035c51fec1d448ea1526e7d10b0906b0bc403506fb30152949c14055e",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      30
+    ]
+  },
+  {
+    "tx_hash": "0x051af32f2e7edcbeccad542057bf841096d3f52a46fe1faf54ec7cf3d25a487b",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 600.0,
+    "transfer_log_indices": [
+      20
+    ]
+  },
+  {
+    "tx_hash": "0xe5bef6df829fd4d8c8968fc7bd1945f27249bae9ea6876670d75316d99eb14b5",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 1000.0,
+    "transfer_log_indices": [
+      37
+    ]
+  },
+  {
+    "tx_hash": "0x0d0be83161f24f2c8698e3354c5823a89db03697d794dc3b1e1986c70df10727",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      15
+    ]
+  },
+  {
+    "tx_hash": "0x87c547fba0d140160d8809024406a511e17afbd3413ad3e30ae934e6f78a9429",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x7a066c4523fd63fa652f8610c91563353a3a6bb3becd1dc4cebee8f64646000d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      38
+    ]
+  },
+  {
+    "tx_hash": "0x6346995aefa24be3c93561d9275ae06aa20eebef04ac284738780f4f91fb692a",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xa2a54a643d84e01baa4725a8c574c88edbb903fdf803e479af7de33eb66d13ec",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 1950.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0x693d054ae489bd09af5d9d7fed296a9f6de227085270feba3466206e47cdc924",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x76c925e2097500327ae89067219d481f2177da91973e9f2f0cea0cafb48235a2",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 400.0,
+    "transfer_log_indices": [
+      22
+    ]
+  },
+  {
+    "tx_hash": "0x2a4fd12b200bcd7a92222a6dc5e012feb3e604b0bf54ad818b9dc85c6864aaef",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      13
+    ]
+  },
+  {
+    "tx_hash": "0x78f0194bed4183fdd16d9c2f7256418cab08be218c34ff9837629e2659d9ec92",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      28
+    ]
+  },
+  {
+    "tx_hash": "0x61a3fd9331d8b3876fb42b217e7e6c6c9df49471b8d8c3dab0f81f06080605b9",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0xdf7538c01370d6c020455fcfa2926fd1030991f1e6bd11646138eaacd4853313",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      11
+    ]
+  },
+  {
+    "tx_hash": "0x6e3de868ebc2b97e4d38b021aa34988e141286aaacfccfca0f1d7c4196e77a17",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x1e4375df8b3e9e66df98822dadd01a8d5f13daad5745c118e47f83197efce070",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      9
+    ]
+  },
+  {
+    "tx_hash": "0x06161aadd82b86f8b0d5dde232b8f00fc02d6a98294ba71eb5f1f9cc25e9b60d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      28
+    ]
+  },
+  {
+    "tx_hash": "0xde61285424b143ef1106aaf5e01b1d4de6ba54983f29c58fc617bce250cbcfd7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      21
+    ]
+  },
+  {
+    "tx_hash": "0xec8679163084c16d867011e4c8b03c59245d4245647f7f58ffccb45bb7284a15",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      9
+    ]
+  },
+  {
+    "tx_hash": "0x330f50b64114162d091dec6ad5efd5a377cc3202d73d81ced916933c8b199e4a",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x3d53cc01e06ab5ed88fb2a6b1a224f37fc55ad428e011642fb7991a1694495da",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0x405444bd2f10c03eb167c892949cebb2d6bf68e73b442f1980e1dfbd302a8f68",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x9ba817897d486f1bd24a355b47e70f2c8c477d05673d5754f6d7b650e8feab87",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      25
+    ]
+  },
+  {
+    "tx_hash": "0x8c4c2a698ba72645581be1d21eb87be73acfd34f263cdfdac4a0e27ddc7268de",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 1500.0,
+    "transfer_log_indices": [
+      10
+    ]
+  },
+  {
+    "tx_hash": "0x56c9b1c8fe759a2a75c5a51591ce57d7226f0af90e6c035e6c9e71a85b49123b",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 3000.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x3867466a091ff6d61ef3ff651ae1c6becc1ea1cb443a2236bd88c38b94de52ae",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      12
+    ]
+  },
+  {
+    "tx_hash": "0x9b517b2c2de92fa60e53a80bbf850d1c72714ec12320711b63e5665b39af196b",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      22
+    ]
+  },
+  {
+    "tx_hash": "0x7d1801b27b309c21ab6fcfa2547e215e68cdaebaa84e43d8d0bbbe7c1465b24d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0x108bf2672aaaaa837952b3f09cbe4163b11d2dd331207ae6bfc8e683ff5db5a4",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      42
+    ]
+  },
+  {
+    "tx_hash": "0xb168f4006c18d6eacdcb693b13d6729d347d2c317ff2b35f00acc6d0463a59b8",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x9699db2a84e932c7150af222a6ae6624677466be07c4c716dee83779fd2642f6",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      13
+    ]
+  },
+  {
+    "tx_hash": "0x4a9b7239d4e0260671b56d1abf525797bf2f18bd915ddf0a52fc2296d77ef9c7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 150.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x1dbf1c2c87f1d753ca8d6e18a489b809fe59daa3369d5ede5919fdb8b7e5b796",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x1eff59695fc08eb689c3a9a2dd3e48d328e46d642db88dc020f5330f871ba5f7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      15
+    ]
+  },
+  {
+    "tx_hash": "0x815c992fc85692efc27931b4173f769bee8edbfe39199efaa01d42b45c985a39",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xd00a5f925d21be21fd30658fd28f55707cdbd493bc1b06e98c28eb976d448055",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xb5093755e94c57e01ea7d66ee6b8052a276be1a529e01850fe0aa39ab84d04a3",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      31
+    ]
+  },
+  {
+    "tx_hash": "0x4a0e5eda377b48cf6aef9017feecd45b2484822d83c634fc0ce8ba11c5309048",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2950.0,
+    "transfer_log_indices": [
+      42
+    ]
+  },
+  {
+    "tx_hash": "0xe59dcb46890da11b16a2604185a2b83e9a02da3f6b651cd98cdf032ea028bdc7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0x6e9daab0c47793e1c0f0a42311a9112915461fa9fcdd338378c2841eda4cec14",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0xb621a77d6bc084e59bb77c27ee4d14e70a09f5c4b8d8f913372fc96962d777c9",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      18
+    ]
+  },
+  {
+    "tx_hash": "0xc2ba8f582ac8e2bdea5a8ef72389fa4fad2c8b046dddf6a132c7c1d632814f61",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      12
+    ]
+  },
+  {
+    "tx_hash": "0x90fa3d8a254762690b3b0f977b953679a61080aebfbd1e086ea8df9d18fd9cf1",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x18c5ffaca2d3d9fa40fd33676b93a136045d1584c0922728dec4d7c8338a8df3",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0xc86275f37a30b0852a6c2a55cb1f5d5aa1780e41dd84f826a8df804a0e255a89",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x8b39f82b0632fee5f51ffbcc150e579f26e1be479d8bcc86334fe46618961fd7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      11
+    ]
+  },
+  {
+    "tx_hash": "0x7ba967baf120955bd0e34166b9c91ea85c26746afe52e26106b0bf88a55d1718",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x7880295d2568c8d185eeeb0565b19ecad33b0ee7863c3a5729256996a3b81ef1",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xbee71fff7476409ae25289ff6ac8bc122a62e0d2117420d977db4cd92fe267bf",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      9
+    ]
+  },
+  {
+    "tx_hash": "0x5aac8f9cd7a41d318c271e8a48521b18d565fbda6728a91d59a8d04340a31331",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4150.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0xc4eed6c5d40d192c1ed2d46724367a8c928c7eb396c8dc1c51019decd22e97ed",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 500.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x55ae44a16f7032c9840843825aad630ca1485fe4b0eda7a3a9c1cee30aa634f4",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x4b1be8c2108cebe6056560a82911dabdc43c864e00cdf1e2d358c7d3eb7c6f19",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      13
+    ]
+  },
+  {
+    "tx_hash": "0x6656d722d99d259f9007806234ff3bb6fe266fae058c0155fb79fa4c8e1509bb",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x6df86c70e15ca3dae54d2ff20c24c887b5f9865532b9716938e53c9ec85a73f7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4150.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xb8e7a5ebea9e3f5b9bfe38a8d76313ada1ed4249c389acd884336842cdb140e1",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      16
+    ]
+  },
+  {
+    "tx_hash": "0x74756fc3ea844426f206358b4b8701c13348e26e72b0d2c1fcab5cc4c9e4b8e7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x0a90abb679cbe6f5d25ad8ef6efc4e5bbe0d8ab30179ecaf12e7d982a7734f07",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0xd8dd62763d681a88c88c08ebbd4ebd3110fbcc5999c01833bf1cfe0bc35dcbf8",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x5560ec3871cab89c9718d1e1666df76f26ef9809bcbca83b93f92ac2fbc4c4fe",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 3000.0,
+    "transfer_log_indices": [
+      7
+    ]
+  },
+  {
+    "tx_hash": "0xff4c116052d3438b9d73f81c6a94485b3785a0dfecb730f492a5ed116d3e932c",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0x885ca4a95e1f9587a986403a9052dc32dfab410c7fec9195f61e2be567566f3e",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x1b4de5f98f5638d7a1340e62995e833c56f6f0537095b5c953f9215d176d1ab7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 300.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x6cda14e0382fad9dfd5a116f9108677c5a645adb6b5c5f9b254e1fde3f98a83e",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xa718dfe15a635c91d75043494ec364c75c31b16d28cddfebb4e16633aa78a1d4",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0xbe4239759c20d8c9da76e8df45e2e2794a4d0968b5237b6c2faad01492d7bdbd",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 150.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0x8cc5219a9caad777c0cd3b5cb0f6a8821b517eb2c65622a0b86362a469fadf7a",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      19
+    ]
+  },
+  {
+    "tx_hash": "0x05505f13411401a55088a45321d1be146096eb853307eeb9cdb660fd58c2d7d9",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0x34d4ee1023bcb1c48f2b9448bc6afe49ae45a6c6457c938d32854940cb6c0ac9",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4600.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0x04b928f5e6cec4b702395c6a336ec9468cf87ed24872bd9ea354c8905a314666",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      3
+    ]
+  },
+  {
+    "tx_hash": "0x7e30b4f04e2dc6906693995f07fff52ff804ece6a19d3782e1868d6ce3e6b864",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 150.0,
+    "transfer_log_indices": [
+      37
+    ]
+  },
+  {
+    "tx_hash": "0x6665dd2e71d829819b945c7e11add216a1ea0721dea92d38463275aea2f15de6",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      11
+    ]
+  },
+  {
+    "tx_hash": "0xc47896225a4bc33f48b14e9c783d4168d4579b2150d4ad998642652745f28435",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      19
+    ]
+  },
+  {
+    "tx_hash": "0x8ef3be13fd087c37c0f2c0781f02ab44219e52ad198bb6b926fd933553629e95",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      19
+    ]
+  },
+  {
+    "tx_hash": "0x59b84c4a028637fdfeff883cf90bd5d3d88f2e83a52f9a4d3bca16276229d9f8",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0xe55e4cee0bf50fe03398270519a160187c84d6d2215875dbc5bb1f5003afdc8d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xfe6800204a2f5a3eb1835720c42ecfe66e38026cba86d5c939c7a90a06936fc8",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0x28738adf53f22b2098e46136ce41c7e1d832bada89821c47b911e3efe204a538",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2950.0,
+    "transfer_log_indices": [
+      35
+    ]
+  },
+  {
+    "tx_hash": "0x40454076cb3f155d94e9c1c39df6d089be4326ad8657b5343570fda4e5a81fe6",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 150.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0x88fc7b30b58d042050b5130d476475835b5c751beec74b9703c160fc712d3b01",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0xa23e30fbb688ce867dc2a11a3adb8397246ec628bbd8fb6b082137c24d668262",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0xd36b55bacb393812faa294728b579ac72cf13da186707adff3708a64de5f6a4f",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0xd64e3939666304c631a3002d5b7d398992bc2336dfeaf2678c45a6e2e2a84bf0",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4100.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xc23a86a9f8520e1b4130391fe75e357c00a7c9436923683d79e0edfdadde0722",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 350.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0x3cd8fc4b4d114cd833008ab34cc7363fd04465e82ecfdbae7dcdd63dafef21f3",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0xe5dfe2e8329aef8060107cad8a1a0d4eac19a3fe394c5dfa096601e139168813",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 150.0,
+    "transfer_log_indices": [
+      17
+    ]
+  },
+  {
+    "tx_hash": "0x663cadeb265619d3651604dc039da5f67bb7513458865ed430aa5516db876802",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 3000.0,
+    "transfer_log_indices": [
+      7
+    ]
+  },
+  {
+    "tx_hash": "0x04d6e0d574d00fc067945752038d9339ad9aadb3f476f34e626850945d173918",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 600.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0x05373988aa1f96720d6c45662e718b6053158c9fc7d416ed5e05dd868aea3f18",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 150.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xfc53b46d99ced7f0779855096a9b80d612e2fe2777ed57e2f7506a69d7837294",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 650.0,
+    "transfer_log_indices": [
+      11
+    ]
+  },
+  {
+    "tx_hash": "0x2d041a5ab775886fbb963c7187fd7953bbef2fb1972dc7dfcc62d8da23e7edc1",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      7
+    ]
+  },
+  {
+    "tx_hash": "0xb56a0f83de0b45c385a19c2e75a043931d6430d8031173c590b8e1a92e576ce6",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      14
+    ]
+  },
+  {
+    "tx_hash": "0xe6c7074ba6a6e1b68c255138d9362b9957ae6c329fc250c2e36d6957007bd144",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0xa6cc30fb1d2ec1d9ced63f56a4bb50427cfaa207fd9c84fa31e9f236f6804822",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0xcffe63876e49b1a1e7ed9d356f37b786647f4de722ca1b03a5bdee793456f2d3",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      15
+    ]
+  },
+  {
+    "tx_hash": "0xa04a1e033ddb00cf71d5a7aa1f8524db0e6b93011704c68576e299e083199c63",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      2
+    ]
+  },
+  {
+    "tx_hash": "0xfb49837b04becfe8bd488dc0f2e0dc677320fad1426a652307b9ae7b66a251f3",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x424c57ed1426b6f4dd4ec6853c2a8f6a56a025250f7df433715ad69d5a32f0d0",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      20
+    ]
+  },
+  {
+    "tx_hash": "0x1e3343b9bf3b7c73001b2a444e246f034abcaff6b87bdfba1dbafe59c4288dc8",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0xcb57ecf941f601fd2e967f49ea850e0f7c3e84bdaebd991166f932c0b7cbd38e",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 5000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xe57348b8665b2252eca52b9076298043b273a26b67ef81b6823f608a5b9a83ea",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x57933802dea655f54b8b2e1e36c8555dd798c5e0d5473598d9057a68939ed55e",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xae81404a29d917145b08865c6a86a8bac6181f3716121eabf02e36c74e1e3576",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x1ed4c8aa105ac61754a5a99956428754d29bd9fe679c7482e753a28ce3120da1",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 1000.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0x2fc5fd20822c468765dda6abe011fd70fb00a840b09adcbfacc2170c421f208d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2000.0,
+    "transfer_log_indices": [
+      21
+    ]
+  },
+  {
+    "tx_hash": "0x25870c20dbf651ff8860d81bbd7d553b172f5ab8acb838829fc6b07f2b4c6c67",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 150.0,
+    "transfer_log_indices": [
+      34
+    ]
+  },
+  {
+    "tx_hash": "0xe98664e4bc5dd4123430446c95b9a34ec9f51b7f42835917e8b66276cdb1b040",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 1000.0,
+    "transfer_log_indices": [
+      7
+    ]
+  },
+  {
+    "tx_hash": "0x5e2e345995ad46285e88a63d66f972f29d37c68f8e8d4c0f6a66cce56090d2ba",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 200.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0x51ddc2484a257b7a099d0e3ad7fe68408300249bd62c728abe86d37062c29f91",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 200.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x4a15100ae3306689a6f6852ccbbba26593db9025ab682e29fa0566d0abeeb97d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0xc3aff51a2710b0e22ef0107a76d60ebf9085d2df04c412af6c78454df68a2fbc",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      35
+    ]
+  },
+  {
+    "tx_hash": "0xa5607897d21dcc4836c679d6a17954ac6978eb93f82ddbb21d8d088a482b76d7",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0xd15905449a64bb122e75112ace2709a89d9b2904cd23ce78235654f33c1d0eef",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      17
+    ]
+  },
+  {
+    "tx_hash": "0xcd96fe05c23212afc811118e74811470fd1ad1818647891ba86b8b68ae1091e8",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4300.0,
+    "transfer_log_indices": [
+      37
+    ]
+  },
+  {
+    "tx_hash": "0x707502992fae7d4a1f1c9d74d2b64595f1b67e22b46bbab198fa962d953d29e9",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      20
+    ]
+  },
+  {
+    "tx_hash": "0xf3d83fb3965e07ec078cc4a64e27fd7c6768035071dc6183257b1e78d8571083",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      13
+    ]
+  },
+  {
+    "tx_hash": "0xa8861ecd856c35d85392cd05962225092278691e370ee52f6900aaaa60445eee",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 4250.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x5269df1856aed277d9c338c349eb36a604b12cf8dbd21043ce5beaae9872d57d",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 500.0,
+    "transfer_log_indices": [
+      21
+    ]
+  },
+  {
+    "tx_hash": "0x7638f1d99f5e6df5ec7515d7fb825de3c1928d69fe692e549da70f83508b87e6",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 200.0,
+    "transfer_log_indices": [
+      27
+    ]
+  },
+  {
+    "tx_hash": "0x38e9552701ca9ecc3a1f663203a929c86a9d2801628a741fdcb85a0755900a00",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      18
+    ]
+  },
+  {
+    "tx_hash": "0x5cbb63cedb0bea1ffc721066b2832e3b8efb08deb25a5385eaff911a765c6c3e",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      24
+    ]
+  },
+  {
+    "tx_hash": "0xb0436ffcaf20035f0dec4377d14113e9dc57305bcc29ae4d3542e1b71db93934",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 500.0,
+    "transfer_log_indices": [
+      25
+    ]
+  },
+  {
+    "tx_hash": "0xef46ddcf21eec25abe7fd689ecd3af57a25be30d34a494d4b3596d22b9df7819",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      7
+    ]
+  },
+  {
+    "tx_hash": "0x94214105a930fd9300f268781a317f61dd420dd01d790eb1fbf03333892792e0",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      17
+    ]
+  },
+  {
+    "tx_hash": "0x126ea11f85b369f0dd4e94400569843d88ce62997e699f3a1575e1ce219aa453",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      48
+    ]
+  },
+  {
+    "tx_hash": "0xf67287e34a596eaac8937edc6c07935f11d35f0fa6b17289effd2a8d7e836ba4",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xb39ac3d840f23ef90b1dd28d4daeba91b7019c561b331da3e2809d2a7c8415ee",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      17
+    ]
+  },
+  {
+    "tx_hash": "0xeec426c1e867419d7f8a88d6814458acbe0fbcb3ff8b19cf7d0a3542e637d994",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 200.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x5c7b029d73064c52df68cb418dc9865df8c6f8720030b01bf418df89d0518597",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 700.0,
+    "transfer_log_indices": [
+      8
+    ]
+  },
+  {
+    "tx_hash": "0x559dcd04c11694c516770e477b736dacaee88edc3709a69477073a0fb5488f9f",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 1000.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xd42b229ce0f6618b5ec0e2f8b54ed6284c68b7fc73e7c1167331c2a33aefc87a",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 2000.0,
+    "transfer_log_indices": [
+      6
+    ]
+  },
+  {
+    "tx_hash": "0x3f0f64a1acd119cf220b37a641a20bac3bd8cf3d8964ac4ab6ab2d931c36a9eb",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 500.0,
+    "transfer_log_indices": [
+      10
+    ]
+  },
+  {
+    "tx_hash": "0x50438142b0cf9c4875012d240a4ed48f4e96a8baf0242a24ee94fcbd164645ca",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 250.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xad5a3070d2f6f946b6051681fab22d7dbcb813b74b51f6d9cb61198e8eddff61",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      7
+    ]
+  },
+  {
+    "tx_hash": "0x35bf5beaefa8529ead0132308f987c25725482958724c71ae0c1b052ced65ab8",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      26
+    ]
+  },
+  {
+    "tx_hash": "0x0e2b1f5d357c85f29db4ae72d4ea9c25adfb04ac19cb5cad272127158fe6de33",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      13
+    ]
+  },
+  {
+    "tx_hash": "0xbe0958645ec32391f0d3b7f26692e36b02390bdc161a0f3205336071061c86bd",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      21
+    ]
+  },
+  {
+    "tx_hash": "0xa6813ad2ccd24695d2cda68359136e5a3422bb886ed8363833a6e0a100343d3c",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      9
+    ]
+  },
+  {
+    "tx_hash": "0x4f1f5591189a2d74ab711ef538eb7b6b72de9eaf8db0febac39b478908c18e5a",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      18
+    ]
+  },
+  {
+    "tx_hash": "0x575c70d9caa6aba447b9759c0052af1561c7db26c2d9d9310a00b4860462ccdb",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 100.0,
+    "transfer_log_indices": [
+      21
+    ]
+  },
+  {
+    "tx_hash": "0x869c08c78f4f146a44ec9658a5ed497feaf1b6913ba3e4dceb81fcb827a3332a",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 425.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0x5921761fe03fb8149485452ce93ca71e485090bf6fe9948dbd58a7b7647660f0",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 50.0,
+    "transfer_log_indices": [
+      5
+    ]
+  },
+  {
+    "tx_hash": "0xc96516ae9f6f5f190d6fab9ab2b56c110c150fc30edb57373c768b1687a72fd0",
+    "collateral_address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "margin_pool": "0x24a44f1dc25540c62c1196ffc297dfc951c91ab4",
+    "collateral_symbol": "wstHYPE",
+    "collateral_amount": 425.0,
+    "transfer_log_indices": [
+      7
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+{
+  "option_only": {
+    "total": -9522204.07180738,
+    "mean": -3334.1050671594467,
+    "median": 41.753895,
+    "positive": 1838,
+    "positive_share": 0.6435574229691877
+  },
+  "combined_proxy": {
+    "total": 6541154.913997,
+    "mean": 2290.3203480381653,
+    "median": 59.576531,
+    "positive": 1706,
+    "positive_share": 0.5973389355742297
+  },
+  "collateral_proxy_change": 16063358.98580438,
+  "mean_change": 5624.425415197612,
+  "transitions": {
+    "False_to_False": 429,
+    "False_to_True": 589,
+    "True_to_False": 721,
+    "True_to_True": 1117
+  },
+  "by_collateral": [
+    {
+      "options": 81,
+      "option_result": 3336.861293,
+      "collateral_proxy_change": -8240.412117,
+      "collateral": "FXRP",
+      "combined_proxy": -4903.550824
+    },
+    {
+      "options": 381,
+      "option_result": -1144613.674608,
+      "collateral_proxy_change": 2355781.4175635,
+      "collateral": "LHYPE",
+      "combined_proxy": 1211167.7429555
+    },
+    {
+      "options": 63,
+      "option_result": 13258.201099,
+      "collateral_proxy_change": -94716.934835,
+      "collateral": "PT-kHYPE-13NOV2025",
+      "combined_proxy": -81458.733736
+    },
+    {
+      "options": 74,
+      "option_result": 6831.0239635,
+      "collateral_proxy_change": -38711.6800465,
+      "collateral": "PT-kHYPE-19MAR2026",
+      "combined_proxy": -31880.656083
+    },
+    {
+      "options": 69,
+      "option_result": -17172.266191,
+      "collateral_proxy_change": -86973.2815,
+      "collateral": "PURR",
+      "combined_proxy": -104145.547691
+    },
+    {
+      "options": 2443,
+      "option_result": -107423.11959650001,
+      "collateral_proxy_change": -1312665.26787225,
+      "collateral": "UBTC",
+      "combined_proxy": -1420088.38746875
+    },
+    {
+      "options": 4248,
+      "option_result": 45715.9475355,
+      "collateral_proxy_change": -1480091.851934,
+      "collateral": "UETH",
+      "combined_proxy": -1434375.9043985
+    },
+    {
+      "options": 100,
+      "option_result": 12146.512623,
+      "collateral_proxy_change": -138637.22,
+      "collateral": "UPUMP",
+      "combined_proxy": -126490.707377
+    },
+    {
+      "options": 9826,
+      "option_result": 1106830.45350303,
+      "collateral_proxy_change": 0.0,
+      "collateral": "USDC",
+      "combined_proxy": 1106830.45350303
+    },
+    {
+      "options": 1014,
+      "option_result": 155006.83508699998,
+      "collateral_proxy_change": 0.0,
+      "collateral": "USDH",
+      "combined_proxy": 155006.83508699998
+    },
+    {
+      "options": 11196,
+      "option_result": 255156.95833407,
+      "collateral_proxy_change": 0.0,
+      "collateral": "USD\u20ae0",
+      "combined_proxy": 255156.95833407
+    },
+    {
+      "options": 778,
+      "option_result": 53051.6000781,
+      "collateral_proxy_change": -497657.0782522,
+      "collateral": "USOL",
+      "combined_proxy": -444605.4781741
+    },
+    {
+      "options": 5116,
+      "option_result": -5602812.70606933,
+      "collateral_proxy_change": 8936500.27923158,
+      "collateral": "WHYPE",
+      "combined_proxy": 3333687.57316225
+    },
+    {
+      "options": 7,
+      "option_result": -469.6756544,
+      "collateral_proxy_change": -2124.1473126,
+      "collateral": "bZEC",
+      "combined_proxy": -2593.822967
+    },
+    {
+      "options": 4451,
+      "option_result": -4186583.0546925,
+      "collateral_proxy_change": 8291805.310186,
+      "collateral": "kHYPE",
+      "combined_proxy": 4105222.2554935
+    },
+    {
+      "options": 220,
+      "option_result": -114463.96851185,
+      "collateral_proxy_change": 139089.85269285,
+      "collateral": "wstHYPE",
+      "combined_proxy": 24625.884181
+    }
+  ],
+  "top_changes": [
+    {
+      "wallet": "0x5db201ae15f9702f0a0ff9f00b8c1c18355373d0",
+      "option_result": -3421383.3122345,
+      "collateral_proxy_change": 5998747.782858,
+      "combined_proxy": 2577364.4706235
+    },
+    {
+      "wallet": "0x9e2cbb5d800181c1ef21b25010dc4ea80eeb5508",
+      "option_result": 67771.384743,
+      "collateral_proxy_change": 1022152.927978,
+      "combined_proxy": 1089924.312721
+    },
+    {
+      "wallet": "0x84a73d875b79332b278f1785628d1a2381580be4",
+      "option_result": -371542.4804005,
+      "collateral_proxy_change": 746878.56676525,
+      "combined_proxy": 375336.08636475
+    },
+    {
+      "wallet": "0x3ee69a2bdb47030439c77e693aa67d866effc9fd",
+      "option_result": -291390.283964,
+      "collateral_proxy_change": 626429.508458,
+      "combined_proxy": 335039.224494
+    },
+    {
+      "wallet": "0xf961e5e6c5276164adb2865b7e80cf82dc04e920",
+      "option_result": -214266.882379,
+      "collateral_proxy_change": 570199.985968,
+      "combined_proxy": 355933.103589
+    },
+    {
+      "wallet": "0xcbd6b0dee49eea88a3343ff4e5a2423586b4c1d6",
+      "option_result": -267344.63199175,
+      "collateral_proxy_change": 420042.89120875,
+      "combined_proxy": 152698.25921699998
+    },
+    {
+      "wallet": "0x0a200f2ff5e0ef31a7ed91906a78c6f361023b24",
+      "option_result": -240930.782133,
+      "collateral_proxy_change": 418770.07833,
+      "combined_proxy": 177839.296197
+    },
+    {
+      "wallet": "0x27bcf8047c6fda384f8a93a6e5a140b878fab691",
+      "option_result": -297259.8539135,
+      "collateral_proxy_change": 384100.3960935,
+      "combined_proxy": 86840.54218
+    },
+    {
+      "wallet": "0x6cd68e8f04490cd1a5a21cc97cc8bc15b47dc9eb",
+      "option_result": -97706.3701175,
+      "collateral_proxy_change": 359084.5771185,
+      "combined_proxy": 261378.207001
+    },
+    {
+      "wallet": "0x12df4528e7cc3db07a509c966c6405b69a25ef2e",
+      "option_result": -292628.3978205,
+      "collateral_proxy_change": 352066.4401705,
+      "combined_proxy": 59438.042349999996
+    }
+  ],
+  "receipt_backed_collateral_rows": 220,
+  "oversized_transfer_rows": 1
+}

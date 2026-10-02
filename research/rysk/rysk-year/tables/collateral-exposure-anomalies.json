@@ -1,0 +1,16 @@
+[
+  {
+    "tx_hash": "0xf88a8ca30a002e4d59ceaf0f6bab9a90db035edf240cada894f3361d5e882403",
+    "collateral_symbol": "kHYPE",
+    "writer_to_pool_transfer": 5000.0,
+    "call_contracts": 50.0,
+    "source_proxy_units": 5000.0,
+    "comparison_units": 50.0,
+    "source": "Pinned transaction payload and receipt",
+    "historical_implementation": "0xfad2adf5aca6043cc00def6e74ef901725d14632",
+    "interpretation": "Signed position collateral is 100x minted call quantity; 50 units is counterfactual only",
+    "source_proxy_change": 1892.1896500000023,
+    "comparison_proxy_change": 18.921896500000024,
+    "proxy_difference": 1873.2677535000023
+  }
+]

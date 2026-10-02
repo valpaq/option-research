@@ -1,0 +1,39 @@
+{
+  "slug": "rysk-year",
+  "title": "A year of writing options on Rysk V12",
+  "subtitle": "40,067 option sales, 2,856 writer wallets. HyperEVM, 10 October 2025\u20139 October 2026.",
+  "venue": "Rysk V12",
+  "chain": "HyperEVM",
+  "window": {
+    "start": "2025-10-10T08:00:00+00:00",
+    "end": "2026-10-09T08:00:00+00:00"
+  },
+  "chain_key": "hyperevm",
+  "figures_module": "option_intel.figures",
+  "notebook_module": "option_intel.notebook_rysk_year",
+  "inputs": [
+    "data/onchain/rysk/sales.csv",
+    "data/onchain/rysk-eth/sales.csv",
+    "data/cache/oracle-prices.csv",
+    "data/cache/spot-hourly.csv",
+    "data/cache/otokens-rysk.json",
+    "data/cache/otokens-rysk-eth.json",
+    "data/cache/spot-refined.csv",
+    "data/cache/rysk-year-provenance.json",
+    "data/cache/rysk-year-collateral-receipts.json",
+    "data/cache/rysk-year-fee-gas.json",
+    "data/cache/rysk-year-overcollateralized-tx.json"
+  ],
+  "allowed_figures": [
+    "$100"
+  ],
+  "notebook": "notebook.ipynb",
+  "data": "data/",
+  "venues": [
+    "rysk"
+  ],
+  "data_collected": "2026-10-09T17:29:23.283222+00:00",
+  "notebook_url": "https://github.com/valpaq/option-research/blob/main/research/rysk/rysk-year/notebook.ipynb",
+  "group": "rysk",
+  "notebook_computes_figures": true
+}

@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "option-research"
+version = "0.1.0"
+description = "Reproducible on-chain options research"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+  "numpy>=2,<3",
+  "pandas>=2.2,<4",
+  "python-dateutil>=2.9,<3",
+  "requests>=2.32,<3",
+  "eth-utils>=5,<7",
+  "eth-hash[pycryptodome]>=0.7,<1",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<9", "ruff>=0.16,<1"]
+notebook = ["nbformat>=5,<6", "nbclient>=0.10,<0.11", "ipykernel>=6,<7", "matplotlib>=3.8,<4"]
+
+[tool.setuptools.packages.find]
+include = ["option_intel*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 110
+target-version = "py314"
+
+[tool.ruff.lint]
+select = ["F", "E4", "E9"]
